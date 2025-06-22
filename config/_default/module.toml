@@ -29,10 +29,10 @@ target = "assets/svgs/tabler-icons"
 source = "assets"
 target = "assets"
 
-## content
-[[mounts]]
-source = "content"
-target = "content"
+### content
+#[[mounts]]
+#source = "content"
+#target = "content"
 
 ## data
 [[mounts]]
@@ -85,3 +85,14 @@ target = "static"
 [[mounts]]
 source = "static"
 target = "static"
+
+## content
+[[mounts]]
+source = "content/en"
+target = "content"
+lang = "en"
+
+[[mounts]]
+source = "content/no"
+lang = "de"
+target = "content"
