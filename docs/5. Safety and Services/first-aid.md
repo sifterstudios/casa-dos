@@ -11,4 +11,8 @@
 # tags: [docusaurus]
 # slug: /myDoc
 ---
+
 # First-aid
+
+We have some basic first-aid equipment in the top shelf in the kitchen (the side opposite from the cook-top). Feel free
+to use what you need if an accident happens!

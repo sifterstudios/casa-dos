@@ -11,4 +11,11 @@
 # tags: [docusaurus]
 # slug: /myDoc
 ---
+
 # Bedrooms / Bathrooms
+
+Towels
+There's towels for the bathrooms in the master bedrooms, by the wall. Can't miss it.
+
+Toilet paper
+You can find more toilet paper in the bathroom in the middle floor (just by the main entrance).

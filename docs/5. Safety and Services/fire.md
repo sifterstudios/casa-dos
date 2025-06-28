@@ -11,4 +11,12 @@
 # tags: [docusaurus]
 # slug: /myDoc
 ---
+
 # Fire
+
+In case of a fire, there's a couple of things to know.
+
+## Fire Extinguisher
+
+There's a standard fire extinguisher located in the side entrance (middle floor). Pull the pin and aim at the bottom of
+the flames.

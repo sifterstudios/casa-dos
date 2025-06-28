@@ -11,4 +11,15 @@
 # tags: [docusaurus]
 # slug: /myDoc
 ---
+
 # Kitchen
+
+The kitchen isn't really something super fancy, so we're confident you'll find out
+how the appliances work pretty quickly. Here are some useful tips, though:
+---
+
+- The vent turns on and adjusts automatically, you don't need to do anything!
+- There's a `Stove guard` right under the vent (white rectangular thing), that will start an alarm if it senses too high
+  of a temperature by the cooktop. If you're cooking, touch the only button on the unit to let it now you are there. If
+  you don't do anything once the alarm starts, the cooktop will turn itself off, and you will have to touch the button
+  on the unit to get the electricity back again.

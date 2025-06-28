@@ -12,3 +12,7 @@
 # slug: /myDoc
 ---
 # Recycling and Garbage Disposal
+
+ In Rogaland, there's two different types of garbage;
+ - Bio-degradable: goes in a grey-ish corn-based bag
+ - The rest: goes in a normal shopping bag
