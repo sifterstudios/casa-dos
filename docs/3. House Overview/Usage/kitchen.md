@@ -16,6 +16,7 @@
 
 The kitchen isn't really something super fancy, so we're confident you'll find out
 how the appliances work pretty quickly. Here are some useful tips, though:
+
 ---
 
 - The vent turns on and adjusts automatically, you don't need to do anything!
