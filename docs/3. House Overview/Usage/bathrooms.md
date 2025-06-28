@@ -11,4 +11,8 @@
 # tags: [docusaurus]
 # slug: /myDoc
 ---
+
 # Bathrooms
+
+Normal bathrooms, not much to say here. If you'd like to take a bath in bathroom at the bottom floor, there's a mechanism to switch between the shower and the bathtub. Pull on the lever of the pipe that goes to the bathtub and the water will switch to the showere
+
