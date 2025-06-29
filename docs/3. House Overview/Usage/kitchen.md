@@ -24,3 +24,8 @@ how the appliances work pretty quickly. Here are some useful tips, though:
   of a temperature by the cooktop. If you're cooking, touch the only button on the unit to let it now you are there. If
   you don't do anything once the alarm starts, the cooktop will turn itself off, and you will have to touch the button
   on the unit to get the electricity back again.
+
+## Freezer
+
+We don't have a freezer in the kitchen, instead its located on the bottom floor in the washing room. We've reserved the
+top drawer for you, feel free to use it!
